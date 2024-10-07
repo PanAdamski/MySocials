@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/ae4e9fcb-54d7-4c29-afed-adb21230d8bd" alt="opis" width="40" style="display: block; margin: auto;" /> [HackTheBox](https://app.hackthebox.com/profile/354936) TOP2 in Poland
 
-<img src="https://github.com/user-attachments/assets/e17b71c9-4c5a-4ef2-8fea-77a91c8c07be" alt="opis" width="40" style="display: block; margin: auto;" />  [root-me.org](https://www.root-me.org/PanAdamski) TOP2000
+<img src="https://github.com/user-attachments/assets/e17b71c9-4c5a-4ef2-8fea-77a91c8c07be" alt="opis" width="40" style="display: block; margin: auto;" />  [root-me.org](https://www.root-me.org/PanAdamski) TOP1800
 
 
 
