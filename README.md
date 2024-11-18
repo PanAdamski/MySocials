@@ -10,8 +10,6 @@
 <img src="https://github.com/user-attachments/assets/e17b71c9-4c5a-4ef2-8fea-77a91c8c07be" alt="opis" width="40" style="display: block; margin: auto;" />  [root-me.org](https://www.root-me.org/PanAdamski) TOP1600
 
 
-
-
 <img src="https://github.com/user-attachments/assets/67f3d359-473c-425a-94cc-7c72aed250fe" alt="opis" width="40" style="display: block; margin: auto;" />  [Cryptohack](https://cryptohack.org/user/PanAdamski/) TOP2900
 
 
