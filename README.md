@@ -29,7 +29,7 @@
 ![flagyard-logo d42a7722bdca5a0769d443974c7be8bf](https://github.com/user-attachments/assets/5cd65f49-d267-4ed4-825b-8a56e83b0a3a) https://flagyard.com/profile/Holl0w
 
 
-<img src="https://github.com/user-attachments/assets/3c7dc736-d8d2-4050-ba15-014b1017f060" alt="opis" width="40" style="display: block; margin: auto;" /> [HackMyVM](https://hackmyvm.eu/profile/?user=Holl0w) Top90
+<img src="https://github.com/user-attachments/assets/3c7dc736-d8d2-4050-ba15-014b1017f060" alt="opis" width="40" style="display: block; margin: auto;" /> [HackMyVM](https://hackmyvm.eu/profile/?user=Holl0w) Top80
 
 
 https://pwn.college/hacker/Holl0w
