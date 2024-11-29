@@ -16,7 +16,7 @@
 
 <img src="https://github.com/user-attachments/assets/72c6ba00-790b-48ce-aebc-01a577893240" alt="opis" width="50" style="display: block; margin: auto;" /> [PicoCTF](https://play.picoctf.org/users/PanAdamski) 230 completed challenges
 
-<img src="https://github.com/user-attachments/assets/3c7dc736-d8d2-4050-ba15-014b1017f060" alt="opis" width="40" style="display: block; margin: auto;" /> [HackMyVM](https://hackmyvm.eu/profile/?user=Holl0w) Top70
+<img src="https://github.com/user-attachments/assets/3c7dc736-d8d2-4050-ba15-014b1017f060" alt="opis" width="40" style="display: block; margin: auto;" /> [HackMyVM](https://hackmyvm.eu/profile/?user=Holl0w) Top60
 
 <img src="https://github.com/user-attachments/assets/c96dc3c9-6a36-4ed5-89b6-691b30313667" alt="opis" width="50" style="display: block; margin: auto;" />  [CTFLearn](https://ctflearn.com/user/Holl0w) TOP39
 
